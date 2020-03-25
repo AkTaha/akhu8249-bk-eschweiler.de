@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Stunde
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Stunde.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=fach\ stunde\ raum\ lehrer
+comment1.target=Stunde(java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Stunde\r\n
+comment2.params=
+comment2.target=java.lang.String\ gibFach()
+comment3.params=
+comment3.target=int\ gibStunde()
+comment4.params=
+comment4.target=int\ gibRaum()
+comment5.params=
+comment5.target=java.lang.String\ gibLehrer()
+comment6.params=fach
+comment6.target=void\ aenderFach(java.lang.String)
+comment7.params=stunde
+comment7.target=void\ aenderStunde(int)
+comment8.params=raum
+comment8.target=void\ aenderRaum(int)
+comment9.params=lehrer
+comment9.target=void\ aenderLehrer(java.lang.String)
+numComments=10
